@@ -1,4 +1,3 @@
-# HPGG_Jomon
 # An ancient genome perspective on the dynamic history of the prehistoric Jomon people in and around the Japanese archipelago
 
 This repository contains the scripts used for the analyses presented in the study :
