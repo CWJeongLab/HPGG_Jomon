@@ -9,4 +9,3 @@ The analyses include :
 1. Pairwise mismatch rate calculation
 2. Principal component analysis
 3. f-statistics calculation
-4. Runs of homozygosity segments estimation
