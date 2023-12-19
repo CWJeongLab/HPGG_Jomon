@@ -69,7 +69,7 @@ Mbuti   Funadomari_3700BP       Ikawazu_2600BP  JpOd    0.000388503722492309    
 
  We calculated f4(Mbuti, worldwide; Jomon 1, Jomon 2) for testing genetic symmetry between Jomon groups or searching for additional admixture sources over worldwide populations.
 
- The list of modern world-wide populations is uploaded under the file name "f4_worldwide_pops.txt".
+ The list of modern world-wide populations is uploaded under the file name "[f4_worldwide_pops.txt](https://github.com/CWJeongLab/HPGG_Jomon/blob/main/f-statistics/data/f4_worldwide_pops.txt)".
 
  The code below is written in R.
 ```
