@@ -2,9 +2,9 @@
 
 **Introduction**
 
-We performed PCA using the smartpca v18140 from the Eigensoft v8.0.0 package using 2,077 present-day Eurasian individuals (149 populations) genotyped on the Affymetrix Axiom Genome-wide Human Origins 1 array. We used 593,124 autosomal SNPs of HumanOrigins SNP panel overlapping with the 1240K set. This SNP set is uploaded under the file name "[1240KHO.auto.snp](https://github.com/jkc0326/jomon/blob/main/Principal_Component_Analysis/1240KHO.auto.230629.snp)". 
+We performed PCA using the smartpca v18140 from the Eigensoft v8.0.0 package using 2,077 present-day Eurasian individuals (149 populations) genotyped on the Affymetrix Axiom Genome-wide Human Origins 1 array. We used 593,124 autosomal SNPs of HumanOrigins SNP panel overlapping with the 1240K set. This SNP set is uploaded under the file name "[1240KHO.auto.snp](https://github.com/CWJeongLab/HPGG_Jomon/blob/main/Principal_Component_Analysis/data/1240KHO.auto.snp)". 
 
-Genotype data of modern individuals(modern_HO.geno/snp/ind) is extracted from Simons Genome Diversity Project dataset. "[modern.pops](https://github.com/jkc0326/jomon/blob/main/Principal_Component_Analysis/modern.pops)" file includes the list of 149 modern population.
+Genotype data of modern individuals(modern_HO.geno/snp/ind) is extracted from Simons Genome Diversity Project dataset. "[PCA_modern_pops.txt](https://github.com/CWJeongLab/HPGG_Jomon/blob/main/Principal_Component_Analysis/data/PCA_modern_pops.txt)" file includes the list of 149 modern population.
 
 We projected ancient Jomon-related individuals not included in PC calculation using the ‘lsqrproject: YES’ option.
 
@@ -22,7 +22,7 @@ snpname: <Path_to_file>/<Genotype_Data>.snp
 indivname: <Path_to_file>/<Genotype_Data>.ind
 evecoutname: <Path_to_file>/<Output_file_prefix>.evec
 evaloutname: <Path_to_file>/<Output_file_prefix>.eval
-poplistname: <Path_to_file>/moderns.pops
+poplistname: <Path_to_file>/PCA_moderns_pops.txt
 altnormstype: NO
 numoutevec: 20
 numoutlieriter: 0
