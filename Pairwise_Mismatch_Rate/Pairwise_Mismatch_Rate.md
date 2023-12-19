@@ -4,7 +4,7 @@
 
 We calculate pairwise mismatch rate (pmr) between Jomon individuals and modern east Asian(Han, Japanese) using the autosomal SNPs in the 1240K panel.
 
-Genotype data of modern individuals(modern_EAS.geno/snp/ind) is extracted from Simons Genome Diversity Project dataset. List of modern east Asian individuals is uploaded as 'modern_EAS.ind'.
+Genotype data of modern individuals(modern_EAS.geno/snp/ind) is extracted from Simons Genome Diversity Project dataset. List of modern east Asian individuals is uploaded as "[modern_EAS.ind](https://github.com/CWJeongLab/HPGG_Jomon/blob/main/Pairwise_Mismatch_Rate/data/modern_EAS.ind)".
 
 ## 1. Calculate PMR between Jomon individuals
 
